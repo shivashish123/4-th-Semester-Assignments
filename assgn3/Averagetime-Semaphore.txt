@@ -1,0 +1,2 @@
+Average Waiting Time for producers in case of semaphores is : 0.000907
+Average Waiting Time for consumers in case of semaphores is : 9.958995

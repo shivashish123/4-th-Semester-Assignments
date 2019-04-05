@@ -1,0 +1,2 @@
+Average Waiting time 2.666667.
+Worst Waiting time for process to enter CS 6.000000.

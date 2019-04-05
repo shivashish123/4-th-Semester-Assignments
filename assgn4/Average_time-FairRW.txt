@@ -1,0 +1,4 @@
+Average Waiting Time for readers is : 1894.886400
+Average Waiting Time for writers is : 950.198600
+Worst Case Waiting Time for readers is : 350.251000
+Worst Case Waiting Time for writers is : 354.208000

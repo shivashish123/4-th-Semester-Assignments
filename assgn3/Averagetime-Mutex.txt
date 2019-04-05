@@ -1,0 +1,2 @@
+Average Waiting Time for producers in case of mutex is : 0.000343
+Average Waiting Time for consumers in case of mutex is : 137.882318
