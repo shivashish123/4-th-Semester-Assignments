@@ -1,0 +1,8 @@
+1. d2-d4 d7-d5 
+2. c2-c4 c7-c6 
+3. Nb1-c3 Ng8-f6 
+4. Ng1-f3 a7-a6 
+5. e2-e3 b7-b5 
+6. c4-c5 g7-g6 
+7. Bf1-d3 Bc8-g4 
+8. Ke1-e2 h7-h5

@@ -1,0 +1,38 @@
+Roll No.:	CS17BTECH11037
+Name:		SHIVASHISH SUMAN
+
+--------------------------------------------------------------------------------
+
+P1: Chess
+---------
+Assumptions / Comments (if any):
+	
+# Is the program complete? Are there any assumptions made? Any other comments?
+Yes the program is complete.
+
+Approach :
+# How do you solve this problem?
+We first created an array that gives the chess piece which is present on a given position.
+Then we changed the position on every move statement.
+For storing the position, we have converted the 2D-positioning to a number by simply multiplying the 
+row number with 8 and adding the column number i.e [2][4] will be 2*8+4 which helps to return the
+position as a number. But in the input we have first column number (a-h) and then row number (1-8),
+so if given [a][3] then we do 3*8+1. 
+Whenever we move a chess piece from one position to another, we clear the previous position by putting
+(' ') in it and write the chess piece character to destination position.
+
+
+
+P2: Calculator
+--------------
+Assumptions / Comments (if any):
+	
+# Is the program complete? Are there any assumptions made? Any other comments?
+Yes, the program is complete. We have assumed that the program will end with delay() statement as there will be some delay to display the digit.
+
+Approach :
+# How do you solve this problem?
+We have made tokens for each keywords which are case-insensitive like select, if, delay etc. We have written
+the rules to print the statements which can have select statements, if-else statements, delay statements.
+Whenever we encounter a variable declaration, we print the declaration statement.
+We have used tab characters for the proper indentation wherever required. 
